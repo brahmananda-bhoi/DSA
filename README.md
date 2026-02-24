@@ -95,15 +95,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
