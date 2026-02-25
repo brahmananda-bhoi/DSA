@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0932-beautiful-array) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/brahmananda-bhoi/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
