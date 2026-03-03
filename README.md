@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/brahmananda-bhoi/DSA/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 ## Prefix Sum
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0022-generate-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brahmananda-bhoi/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Database
 |  |
