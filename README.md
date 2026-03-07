@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/brahmananda-bhoi/DSA/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brahmananda-bhoi/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Dynamic Programming
 |  |
@@ -189,12 +190,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/brahmananda-bhoi/DSA/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/brahmananda-bhoi/DSA/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/brahmananda-bhoi/DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
