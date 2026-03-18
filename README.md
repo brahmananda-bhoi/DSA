@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/brahmananda-bhoi/DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/brahmananda-bhoi/DSA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/brahmananda-bhoi/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/brahmananda-bhoi/DSA/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/brahmananda-bhoi/DSA/tree/master/0093-restore-ip-addresses) |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
