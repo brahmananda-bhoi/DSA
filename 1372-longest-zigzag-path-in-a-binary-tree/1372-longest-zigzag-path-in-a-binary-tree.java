@@ -20,7 +20,7 @@ class Solution {
         // Start zigzag going left from root
         dfs(root, true, 0);
         // Start zigzag going right from root
-        dfs(root, false, 0);
+        // dfs(root, false, 0);
         return maxLength;
     }
     // goLeft: should we go left to continue zigzag?
