@@ -129,17 +129,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
