@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0633-sum-of-square-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0932-beautiful-array) |
 ## Two Pointers
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/brahmananda-bhoi/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
@@ -270,11 +272,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
 ## Union-Find
 |  |
