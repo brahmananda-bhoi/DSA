@@ -13,9 +13,6 @@ class Solution {
         swap(sb1, 1, 3);
         if(s2.equals(sb1.toString()))
             return true;
-        swap(sb1, 0, 2);
-        if(s2.equals(sb1.toString()))
-            return true;
         return false;
     }
     private void swap(StringBuilder sb, int i, int j){
