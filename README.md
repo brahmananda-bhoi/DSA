@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/brahmananda-bhoi/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/brahmananda-bhoi/DSA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/brahmananda-bhoi/DSA/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0147-insertion-sort-list) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/brahmananda-bhoi/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/brahmananda-bhoi/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/brahmananda-bhoi/DSA/tree/master/0077-combinations) |
