@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0932-beautiful-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0952-largest-component-size-by-common-factor](https://github.com/brahmananda-bhoi/DSA/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/brahmananda-bhoi/DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/brahmananda-bhoi/DSA/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/brahmananda-bhoi/DSA/tree/master/0657-robot-return-to-origin) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brahmananda-bhoi/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/brahmananda-bhoi/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/brahmananda-bhoi/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Queue
 |  |
 | ------- |
