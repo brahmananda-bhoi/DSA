@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/brahmananda-bhoi/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brahmananda-bhoi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/brahmananda-bhoi/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/brahmananda-bhoi/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
