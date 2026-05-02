@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/brahmananda-bhoi/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/brahmananda-bhoi/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/brahmananda-bhoi/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/brahmananda-bhoi/DSA/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## String
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/brahmananda-bhoi/DSA/tree/master/0200-number-of-islands) |
 | [0952-largest-component-size-by-common-factor](https://github.com/brahmananda-bhoi/DSA/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/brahmananda-bhoi/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/brahmananda-bhoi/DSA/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
