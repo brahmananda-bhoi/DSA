@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/brahmananda-bhoi/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/brahmananda-bhoi/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/brahmananda-bhoi/DSA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/brahmananda-bhoi/DSA/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/brahmananda-bhoi/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/brahmananda-bhoi/DSA/tree/master/0367-valid-perfect-square) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/brahmananda-bhoi/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/brahmananda-bhoi/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/brahmananda-bhoi/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/brahmananda-bhoi/DSA/tree/master/0289-game-of-life) |
