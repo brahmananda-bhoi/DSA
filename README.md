@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/brahmananda-bhoi/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/brahmananda-bhoi/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/brahmananda-bhoi/DSA/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brahmananda-bhoi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/brahmananda-bhoi/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1861-rotating-the-box](https://github.com/brahmananda-bhoi/DSA/tree/master/1861-rotating-the-box) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brahmananda-bhoi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/brahmananda-bhoi/DSA/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/brahmananda-bhoi/DSA/tree/master/1861-rotating-the-box) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
