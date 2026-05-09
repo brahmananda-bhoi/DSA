@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/brahmananda-bhoi/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/brahmananda-bhoi/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/brahmananda-bhoi/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/brahmananda-bhoi/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/brahmananda-bhoi/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/brahmananda-bhoi/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/brahmananda-bhoi/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/brahmananda-bhoi/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/brahmananda-bhoi/DSA/tree/master/0733-flood-fill) |
+| [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/brahmananda-bhoi/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
+| [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/brahmananda-bhoi/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Number Theory
 |  |
 | ------- |
