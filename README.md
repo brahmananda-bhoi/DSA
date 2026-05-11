@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/brahmananda-bhoi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/brahmananda-bhoi/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/brahmananda-bhoi/DSA/tree/master/2615-sum-of-distances) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3488-closest-equal-element-queries](https://github.com/brahmananda-bhoi/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/brahmananda-bhoi/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brahmananda-bhoi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sliding Window
 |  |
