@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/brahmananda-bhoi/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/brahmananda-bhoi/DSA/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/brahmananda-bhoi/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/brahmananda-bhoi/DSA/tree/master/0441-arranging-coins) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/brahmananda-bhoi/DSA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/brahmananda-bhoi/DSA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/brahmananda-bhoi/DSA/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/brahmananda-bhoi/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/brahmananda-bhoi/DSA/tree/master/0216-combination-sum-iii) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/brahmananda-bhoi/DSA/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/0190-reverse-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brahmananda-bhoi/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
