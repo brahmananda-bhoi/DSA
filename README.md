@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/brahmananda-bhoi/DSA/tree/master/0289-game-of-life) |
 | [0493-reverse-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0493-reverse-pairs) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/brahmananda-bhoi/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/brahmananda-bhoi/DSA/tree/master/0733-flood-fill) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/brahmananda-bhoi/DSA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0344-reverse-string) |
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/brahmananda-bhoi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
