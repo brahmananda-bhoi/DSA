@@ -3,15 +3,12 @@ class Solution {
         int l = 0, r = nums.length - 1;
         while (l < r) {
             int mid = l + (r - l) / 2;
-            if (nums[mid] < nums[r]) {
+            if (nums[mid] < nums[r])
                 r = mid; // minimum is in left part (including mid)
-            } 
-            else if (nums[mid] > nums[r]) {
+            else if (nums[mid] > nums[r])
                 l = mid + 1; // minimum is in right part
-            } 
-            else {
+            else
                 r--; // duplicates, shrink safely
-            }
         }
         return nums[l];
     }
