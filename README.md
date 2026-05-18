@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/brahmananda-bhoi/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/brahmananda-bhoi/DSA/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/brahmananda-bhoi/DSA/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/brahmananda-bhoi/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Binary Indexed Tree
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/brahmananda-bhoi/DSA/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/brahmananda-bhoi/DSA/tree/master/0401-binary-watch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brahmananda-bhoi/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Simulation
