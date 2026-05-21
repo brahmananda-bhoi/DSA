@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/brahmananda-bhoi/DSA/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2076-process-restricted-friend-requests](https://github.com/brahmananda-bhoi/DSA/tree/master/2076-process-restricted-friend-requests) |
 ## Matrix
 |  |
 | ------- |
@@ -504,4 +505,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/brahmananda-bhoi/DSA/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/brahmananda-bhoi/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2076-process-restricted-friend-requests](https://github.com/brahmananda-bhoi/DSA/tree/master/2076-process-restricted-friend-requests) |
 <!---LeetCode Topics End-->
