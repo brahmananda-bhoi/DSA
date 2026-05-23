@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/brahmananda-bhoi/DSA/tree/master/1664-ways-to-make-a-fair-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/brahmananda-bhoi/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/brahmananda-bhoi/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/brahmananda-bhoi/DSA/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
