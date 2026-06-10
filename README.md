@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/brahmananda-bhoi/DSA/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1914-cyclically-rotating-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/brahmananda-bhoi/DSA/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brahmananda-bhoi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/brahmananda-bhoi/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/brahmananda-bhoi/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/brahmananda-bhoi/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/brahmananda-bhoi/DSA/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/brahmananda-bhoi/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/brahmananda-bhoi/DSA/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/brahmananda-bhoi/DSA/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/brahmananda-bhoi/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/brahmananda-bhoi/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/brahmananda-bhoi/DSA/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/brahmananda-bhoi/DSA/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/brahmananda-bhoi/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 <!---LeetCode Topics End-->
