@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3941-password-strength](https://github.com/brahmananda-bhoi/DSA/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/brahmananda-bhoi/DSA/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/brahmananda-bhoi/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/brahmananda-bhoi/DSA/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
