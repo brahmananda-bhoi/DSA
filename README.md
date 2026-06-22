@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/brahmananda-bhoi/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/brahmananda-bhoi/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/brahmananda-bhoi/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2615-sum-of-distances](https://github.com/brahmananda-bhoi/DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brahmananda-bhoi/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/brahmananda-bhoi/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/brahmananda-bhoi/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/brahmananda-bhoi/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/brahmananda-bhoi/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/brahmananda-bhoi/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/brahmananda-bhoi/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/brahmananda-bhoi/DSA/tree/master/2833-furthest-point-from-origin) |
