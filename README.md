@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brahmananda-bhoi/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brahmananda-bhoi/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/brahmananda-bhoi/DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Simulation
 |  |
 | ------- |
