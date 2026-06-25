@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brahmananda-bhoi/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/brahmananda-bhoi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3689-maximum-total-subarray-value-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/brahmananda-bhoi/DSA/tree/master/3488-closest-equal-element-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/brahmananda-bhoi/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [2615-sum-of-distances](https://github.com/brahmananda-bhoi/DSA/tree/master/2615-sum-of-distances) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0932-beautiful-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/brahmananda-bhoi/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/brahmananda-bhoi/DSA/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -385,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
