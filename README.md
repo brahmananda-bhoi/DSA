@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/brahmananda-bhoi/DSA/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/brahmananda-bhoi/DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/brahmananda-bhoi/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0525-contiguous-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/brahmananda-bhoi/DSA/tree/master/0952-largest-component-size-by-common-factor) |
 | [1189-maximum-number-of-balloons](https://github.com/brahmananda-bhoi/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/brahmananda-bhoi/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/brahmananda-bhoi/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/brahmananda-bhoi/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1840-maximum-building-height](https://github.com/brahmananda-bhoi/DSA/tree/master/1840-maximum-building-height) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/brahmananda-bhoi/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/brahmananda-bhoi/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/brahmananda-bhoi/DSA/tree/master/0994-rotting-oranges) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/brahmananda-bhoi/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/brahmananda-bhoi/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/brahmananda-bhoi/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/brahmananda-bhoi/DSA/tree/master/0841-keys-and-rooms) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/brahmananda-bhoi/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/brahmananda-bhoi/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/brahmananda-bhoi/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/brahmananda-bhoi/DSA/tree/master/1971-find-if-path-exists-in-graph) |
