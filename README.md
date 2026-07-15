@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/brahmananda-bhoi/DSA/tree/master/1840-maximum-building-height) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/brahmananda-bhoi/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/brahmananda-bhoi/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/brahmananda-bhoi/DSA/tree/master/0952-largest-component-size-by-common-factor) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/brahmananda-bhoi/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
 | ------- |
