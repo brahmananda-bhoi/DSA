@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/brahmananda-bhoi/DSA/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brahmananda-bhoi/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/brahmananda-bhoi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3689-maximum-total-subarray-value-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/brahmananda-bhoi/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brahmananda-bhoi/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/brahmananda-bhoi/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/brahmananda-bhoi/DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/brahmananda-bhoi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -606,8 +610,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brahmananda-bhoi/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/brahmananda-bhoi/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/brahmananda-bhoi/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/brahmananda-bhoi/DSA/tree/master/1291-sequential-digits) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
