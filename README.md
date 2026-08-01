@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/brahmananda-bhoi/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/brahmananda-bhoi/DSA/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/brahmananda-bhoi/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0525-contiguous-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
