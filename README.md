@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/brahmananda-bhoi/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/brahmananda-bhoi/DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/brahmananda-bhoi/DSA/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/brahmananda-bhoi/DSA/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/brahmananda-bhoi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/brahmananda-bhoi/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/brahmananda-bhoi/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/brahmananda-bhoi/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/brahmananda-bhoi/DSA/tree/master/0289-game-of-life) |
