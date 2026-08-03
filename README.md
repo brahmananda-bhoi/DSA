@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/brahmananda-bhoi/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/brahmananda-bhoi/DSA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0344-reverse-string) |
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/brahmananda-bhoi/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/brahmananda-bhoi/DSA/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
