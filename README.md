@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/brahmananda-bhoi/DSA/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/brahmananda-bhoi/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0047-permutations-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/brahmananda-bhoi/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/brahmananda-bhoi/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/brahmananda-bhoi/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/brahmananda-bhoi/DSA/tree/master/0125-valid-palindrome) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/brahmananda-bhoi/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/brahmananda-bhoi/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Interactive
 |  |
