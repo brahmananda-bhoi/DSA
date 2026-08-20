@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/brahmananda-bhoi/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/brahmananda-bhoi/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0481-magical-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0541-reverse-string-ii) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/brahmananda-bhoi/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/brahmananda-bhoi/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/brahmananda-bhoi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
