@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/brahmananda-bhoi/DSA/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/brahmananda-bhoi/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/brahmananda-bhoi/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brahmananda-bhoi/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
