@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/brahmananda-bhoi/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/brahmananda-bhoi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/brahmananda-bhoi/DSA/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0234-palindrome-linked-list) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/brahmananda-bhoi/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brahmananda-bhoi/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0234-palindrome-linked-list) |
