@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/brahmananda-bhoi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -754,4 +758,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/brahmananda-bhoi/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
