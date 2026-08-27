@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/brahmananda-bhoi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/brahmananda-bhoi/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/brahmananda-bhoi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/brahmananda-bhoi/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/brahmananda-bhoi/DSA/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/brahmananda-bhoi/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/brahmananda-bhoi/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/brahmananda-bhoi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/brahmananda-bhoi/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/brahmananda-bhoi/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/brahmananda-bhoi/DSA/tree/master/0994-rotting-oranges) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/brahmananda-bhoi/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/brahmananda-bhoi/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/brahmananda-bhoi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0952-largest-component-size-by-common-factor](https://github.com/brahmananda-bhoi/DSA/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/brahmananda-bhoi/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/brahmananda-bhoi/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/brahmananda-bhoi/DSA/tree/master/0841-keys-and-rooms) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/brahmananda-bhoi/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -784,4 +788,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0020-valid-parentheses) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/brahmananda-bhoi/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/brahmananda-bhoi/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
