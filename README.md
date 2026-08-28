@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/brahmananda-bhoi/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0542-01-matrix) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/brahmananda-bhoi/DSA/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Union-Find
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/brahmananda-bhoi/DSA/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
