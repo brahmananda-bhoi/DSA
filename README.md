@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brahmananda-bhoi/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1914-cyclically-rotating-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/brahmananda-bhoi/DSA/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brahmananda-bhoi/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/brahmananda-bhoi/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/brahmananda-bhoi/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/brahmananda-bhoi/DSA/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3689-maximum-total-subarray-value-i) |
