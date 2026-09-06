@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/brahmananda-bhoi/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/brahmananda-bhoi/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/brahmananda-bhoi/DSA/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/brahmananda-bhoi/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/brahmananda-bhoi/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/brahmananda-bhoi/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/brahmananda-bhoi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0853-car-fleet](https://github.com/brahmananda-bhoi/DSA/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/brahmananda-bhoi/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/brahmananda-bhoi/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/brahmananda-bhoi/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/brahmananda-bhoi/DSA/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Union-Find
 |  |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/brahmananda-bhoi/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/brahmananda-bhoi/DSA/tree/master/0853-car-fleet) |
 ## Interactive
 |  |
 | ------- |
