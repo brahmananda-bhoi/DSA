@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/brahmananda-bhoi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/brahmananda-bhoi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3689-maximum-total-subarray-value-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/brahmananda-bhoi/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3693-climbing-stairs-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
