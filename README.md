@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/brahmananda-bhoi/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/brahmananda-bhoi/DSA/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brahmananda-bhoi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/brahmananda-bhoi/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0152-maximum-product-subarray) |
@@ -855,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/brahmananda-bhoi/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
