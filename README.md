@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/brahmananda-bhoi/DSA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/brahmananda-bhoi/DSA/tree/master/0289-game-of-life) |
+| [0403-frog-jump](https://github.com/brahmananda-bhoi/DSA/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/brahmananda-bhoi/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/brahmananda-bhoi/DSA/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/brahmananda-bhoi/DSA/tree/master/0491-non-decreasing-subsequences) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/brahmananda-bhoi/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0403-frog-jump](https://github.com/brahmananda-bhoi/DSA/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/brahmananda-bhoi/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0746-min-cost-climbing-stairs) |
