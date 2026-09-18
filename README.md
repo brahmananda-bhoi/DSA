@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/brahmananda-bhoi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3941-password-strength](https://github.com/brahmananda-bhoi/DSA/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/brahmananda-bhoi/DSA/tree/master/3945-digit-frequency-score) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Prefix Sum
 |  |
 | ------- |
