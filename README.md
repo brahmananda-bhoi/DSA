@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/brahmananda-bhoi/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/brahmananda-bhoi/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/brahmananda-bhoi/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/brahmananda-bhoi/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/brahmananda-bhoi/DSA/tree/master/1861-rotating-the-box) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/brahmananda-bhoi/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/brahmananda-bhoi/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/brahmananda-bhoi/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/brahmananda-bhoi/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2615-sum-of-distances](https://github.com/brahmananda-bhoi/DSA/tree/master/2615-sum-of-distances) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brahmananda-bhoi/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/brahmananda-bhoi/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/brahmananda-bhoi/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/brahmananda-bhoi/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/brahmananda-bhoi/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/brahmananda-bhoi/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
