@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/brahmananda-bhoi/DSA/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/brahmananda-bhoi/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/brahmananda-bhoi/DSA/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/brahmananda-bhoi/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/brahmananda-bhoi/DSA/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/brahmananda-bhoi/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/brahmananda-bhoi/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/brahmananda-bhoi/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/brahmananda-bhoi/DSA/tree/master/0853-car-fleet) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/brahmananda-bhoi/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/brahmananda-bhoi/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/brahmananda-bhoi/DSA/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Graph Coloring
 |  |
 | ------- |
