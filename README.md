@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/brahmananda-bhoi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/brahmananda-bhoi/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/brahmananda-bhoi/DSA/tree/master/1392-longest-happy-prefix) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/brahmananda-bhoi/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/brahmananda-bhoi/DSA/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/brahmananda-bhoi/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/brahmananda-bhoi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Union-Find
 |  |
 | ------- |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/brahmananda-bhoi/DSA/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/brahmananda-bhoi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/brahmananda-bhoi/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/brahmananda-bhoi/DSA/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/brahmananda-bhoi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/brahmananda-bhoi/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/brahmananda-bhoi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Graph Coloring
 |  |
 | ------- |
