@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/brahmananda-bhoi/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/brahmananda-bhoi/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/brahmananda-bhoi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/brahmananda-bhoi/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/brahmananda-bhoi/DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brahmananda-bhoi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/brahmananda-bhoi/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/brahmananda-bhoi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/brahmananda-bhoi/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/brahmananda-bhoi/DSA/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/brahmananda-bhoi/DSA/tree/master/0357-count-numbers-with-unique-digits) |
