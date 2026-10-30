@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brahmananda-bhoi/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/brahmananda-bhoi/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/brahmananda-bhoi/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/brahmananda-bhoi/DSA/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brahmananda-bhoi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/brahmananda-bhoi/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0227-basic-calculator-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/brahmananda-bhoi/DSA/tree/master/0357-count-numbers-with-unique-digits) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brahmananda-bhoi/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/brahmananda-bhoi/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/brahmananda-bhoi/DSA/tree/master/0344-reverse-string) |
