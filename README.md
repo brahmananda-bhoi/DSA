@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brahmananda-bhoi/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/brahmananda-bhoi/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/brahmananda-bhoi/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/brahmananda-bhoi/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/brahmananda-bhoi/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/brahmananda-bhoi/DSA/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/brahmananda-bhoi/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brahmananda-bhoi/DSA/tree/master/0242-valid-anagram) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/brahmananda-bhoi/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/brahmananda-bhoi/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/brahmananda-bhoi/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brahmananda-bhoi/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/brahmananda-bhoi/DSA/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/brahmananda-bhoi/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/brahmananda-bhoi/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -909,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/brahmananda-bhoi/DSA/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/brahmananda-bhoi/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
